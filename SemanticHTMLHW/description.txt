@@ -1,0 +1,20 @@
+Problem 1. Refactoring
+
+Refactor (edit) the homework-refactoring.html web page and make it HTML semantic.
+
+------------------------------------------------------------------
+
+Problem 2. Student System
+
+Create a web page using semantic HTML by the design.
+Use some kind of approach to support old (non-HTML5-compatible) Web browsers like IE8.
+
+Note: Do not try to make the same styles. Implement just the content with its semantics.
+----------------------------------------------------------------
+
+
+Problem 3. LinkedIn
+
+Create a web page using semantic HTML by the design.
+
+---------------------------------------------------------------------

@@ -1,0 +1,20 @@
+Problem 4.* Grid component
+
+Construct the following Grid component:
+Try to make a HTML page, that looks just like the example
+CSS is required
+----------------------------------------------------
+
+Problem 3. Notebook store
+
+Create the following HTML Page:
+Hint: Use Fieldsets and Nested tables
+----------------------------------------------------
+Problem 2. University grid
+
+Create the following using tables and forms:
+------------------------------------------------------
+Problem 1. Registration form
+
+Create a Web form that looks like this sample:
+---------------------------------------------------
